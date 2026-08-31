@@ -12,7 +12,7 @@ ModuleApps 2.0（MA 2.0）の iOS 向けライブラリを配布するための�
 
 ## サードパーティ ライセンス / プライバシーマニフェスト
 
-本 SDK が依存するオープンソースソフトウェア、およびその著作権表示に関するお願いについては、[SDK 本体の README](https://github.com/Locationvalue/ma2-ios-sdk#サードパーティ-ライセンス) を参照してください。各ライブラリが依存するパッケージとそのバージョンは、本リポジトリの各 `podspec` の `spec.dependency` に記載しています。
+本 SDK が依存するオープンソースソフトウェア、およびその著作権表示に関するお願いについては、[SDK 本体の README](https://github.com/Locationvalue/ma2-ios-sdk#サードパーティ-ライセンス) を参照してください。各ライブラリが依存するパッケージとそのバージョン要件は、本リポジトリの各 `podspec` の `spec.dependency` に記載しています。実際に解決されたバージョンは利用側の Podfile.lock を確認してください。
 
 `PrivacyInfo.xcprivacy` の同梱状況についても、[SDK 本体の README](https://github.com/Locationvalue/ma2-ios-sdk#プライバシーマニフェスト) を参照してください。
 
